@@ -1,0 +1,15 @@
+{
+  "name": "ents/amember-google-groups",
+  "description": "aMember Pro Google Groups plugin",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Travis Ralston",
+      "email": "travis.ralston@ents.ca"
+    }
+  ],
+  "require": {
+    "google/apiclient": "2.x-dev"
+  }
+}
